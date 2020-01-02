@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wlkg-api-gateway/wlkg-api-gateway.iml" filepath="$PROJECT_DIR$/wlkg-api-gateway/wlkg-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-common/wlkg-common.iml" filepath="$PROJECT_DIR$/wlkg-common/wlkg-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-goods-page/wlkg-goods-page.iml" filepath="$PROJECT_DIR$/wlkg-goods-page/wlkg-goods-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-item/wlkg-item.iml" filepath="$PROJECT_DIR$/wlkg-item/wlkg-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-item/wlkg-item-interface.iml" filepath="$PROJECT_DIR$/wlkg-item/wlkg-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service.iml" filepath="$PROJECT_DIR$/wlkg-item/wlkg-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" filepath="$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" />
+      <module fileurl="file://D:/上海千峰/上课资料/day78窝里快购商品添加和修改/day18/资料/wlkg-portal/wlkg-portal.iml" filepath="D:/上海千峰/上课资料/day78窝里快购商品添加和修改/day18/资料/wlkg-portal/wlkg-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-rabbitmq.iml" filepath="$PROJECT_DIR$/wlkg-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-registry/wlkg-registry.iml" filepath="$PROJECT_DIR$/wlkg-registry/wlkg-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-search/wlkg-search.iml" filepath="$PROJECT_DIR$/wlkg-search/wlkg-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-upload/wlkg-upload.iml" filepath="$PROJECT_DIR$/wlkg-upload/wlkg-upload.iml" />
+    </modules>
+  </component>
+</project>

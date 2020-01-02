@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wlkg-goods-page" />
+        <module name="wlkg-item-interface" />
+        <module name="wlkg-rabbitmq" />
+        <module name="wlkg-registry" />
+        <module name="wlkg-search" />
+        <module name="wlkg-api-gateway" />
+        <module name="wlkg-upload" />
+        <module name="wlkg-common" />
+        <module name="wlkg-item-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wlkg-api-gateway" target="1.8" />
+      <module name="wlkg-common" target="1.8" />
+      <module name="wlkg-goods-page" target="1.8" />
+      <module name="wlkg-item" target="1.8" />
+      <module name="wlkg-item-interface" target="1.8" />
+      <module name="wlkg-item-service" target="1.8" />
+      <module name="wlkg-rabbitmq" target="1.8" />
+      <module name="wlkg-registry" target="1.8" />
+      <module name="wlkg-search" target="1.8" />
+      <module name="wlkg-upload" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wlkg-api-gateway" options="-parameters" />
+      <module name="wlkg-common" options="-parameters" />
+      <module name="wlkg-goods-page" options="-parameters" />
+      <module name="wlkg-item-interface" options="-parameters" />
+      <module name="wlkg-item-service" options="-parameters" />
+      <module name="wlkg-rabbitmq" options="-parameters" />
+      <module name="wlkg-registry" options="-parameters" />
+      <module name="wlkg-search" options="-parameters" />
+      <module name="wlkg-upload" options="-parameters" />
+    </option>
+  </component>
+</project>
